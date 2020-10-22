@@ -1,2 +1,2 @@
-# NLP1_ex2
-Repository for the exercise 2 of the UZH class Machine Learning for Natural Language Processing 1
+# NLP1
+A repository regarding the exercises of the course "Machine Learning for Natural Language Processing 1" held at UZH during the fall semester of 2020
